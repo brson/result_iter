@@ -1,0 +1,9 @@
+[package]
+name = "result_iter"
+version = "0.1.0"
+authors = ["Brian Anderson <banderson@mozilla.com>"]
+description = "Easily unwrap iterators over results"
+license = "MIT/Apache-2.0"
+repository = "https://github.com/brson/result_iter"
+
+[dependencies]
